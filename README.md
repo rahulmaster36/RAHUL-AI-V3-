@@ -1,6 +1,6 @@
-# RAHUL-AI-V3 WHATSAPP BOT 🎧 AUTO BGM
+# RAHUL-AI-V3 WHATSAPP BOT 
 
-# *`FEATURES AVAILABLE ✅`*
+𝙍𝘼𝙃𝙐𝙇-𝘼𝙄-𝙑𝟯 𝘾𝙍𝙀𝘼𝙏𝙀𝘿 𝘽𝙔 𝙍𝘼𝙃𝙐𝙇-𝙈𝘼𝙎𝙏𝙀𝙍
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
