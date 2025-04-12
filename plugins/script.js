@@ -36,7 +36,7 @@ async (conn, mek, m, { from, reply }) => {
 > *sɪᴍᴘʟᴇ, ɪᴄʏ, ᴄᴏʟᴅ  & ʀɪᴄʜ ʟᴏᴀᴅᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ᴀᴍᴀᴢɪɴɢ ғᴇᴀᴛᴜʀᴇs, ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ sᴛᴀʀ & ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ🌟🍴*
 
 *\`REPO LINK:\`📮*
-> https://github.com/rahulmaster143/RAHUL-AI-V3/fork
+> https://github.com/rahulmaster36/RAHUL-AI-V3/fork
 
 *\`BOT GC LINK:\`🪀*
 > https://pair-code-new-o1lq.onrender.com
